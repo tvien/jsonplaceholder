@@ -1,3 +1,10 @@
 {
-   "value": "test"
+  "posts": [
+    1,
+    2,
+    3
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
