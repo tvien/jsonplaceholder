@@ -1,9 +1,11 @@
 {
-   "Value": [
-      1,
-      2,
-      3
-   ],
-   "Cause": "null",
-   "Success": "true"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
